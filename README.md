@@ -14,7 +14,8 @@
 
 ### 📫 Como entrar em contato
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesley-santos-991979255) [![Email](https://img.shields.io/badge/Email-D14836?style=forthebadge&logo=gmail&logoColor=white)](mailto:wesleysantoscardoso2404@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesley-santos-991979255) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleysantoscardoso2404@gmail.com)
+
 
 ### ✨ Sobre mim
 
