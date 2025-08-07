@@ -18,8 +18,8 @@
 
 ### 📫 Como entrar em contato
 
-- 💼 [LinkedIn](https://linkedin.com/in/wesley-santos-991979255)
-- 📧 Email: wesleysantoscardoso2404@gmail.com
+[LinkedIn](https://linkedin.com/in/wesley-santos-991979255)
+[Email](mailto:seuemail@exemplo.com)
 
 ---
 
